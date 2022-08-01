@@ -8,4 +8,4 @@ I am a researcher interested in spatial data science, geographic information sys
 
 I gained industry experience at [AECOM](https://aecom.com) (Data Science & Analytics group) utilizing GIS software, Python and R programming to prepare deliverables for engineering projects in transportation, water resources, environmental management, energy and communications infrastructure.
 
-My educational background is in civil and geomatics engineering. While at [Florida Atlantic University (FAU)](https://www.fau.edu), I was fortunate to work as a GIS researcher in the [Center for Water Resiliency and Risk Reduction](https://www.fau.edu/engineering/research/cwr3/about) and [Laboratory for Remote Sensing and Hydrometeorology](http://faculty.eng.fau.edu/suh).
+My educational background is in civil and geomatics engineering. While at [Florida Atlantic University](https://www.fau.edu), I was fortunate to work as a GIS researcher in the [Center for Water Resiliency and Risk Reduction](https://www.fau.edu/engineering/research/cwr3/about) and [Laboratory for Remote Sensing and Hydrometeorology](http://faculty.eng.fau.edu/suh).
